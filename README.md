@@ -10,4 +10,11 @@ User Authentication
 
 Data Upload & Preview  
   - Upload CSV files directly from the browser
-  - use Walmart csv file for test purpose 
+  - use Walmart csv file for test purpose
+
+How to Run
+ - Run the following command in the project directory:
+  ```bash
+  streamlit run EPA.py
+
+ 
