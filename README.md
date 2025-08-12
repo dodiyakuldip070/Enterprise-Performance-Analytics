@@ -9,4 +9,5 @@ User Authentication
   - User profile with full name and creation date  
 
 Data Upload & Preview  
-  - Upload CSV files directly from the browser  
+  - Upload CSV files directly from the browser
+  - use Walmart csv file for test purpose 
